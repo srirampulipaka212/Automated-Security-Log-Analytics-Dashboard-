@@ -37,9 +37,3 @@ Outputs will appear in the `processed/` folder.
 
 ---
 
-**After this, you can continue with “Access the Project,” “Why This Project Matters,” and any additional sections for real-world usage, dashboards, or alerts (as discussed earlier).**  
-This logical flow—**structure**, then **instructions**, then **benefits**—is clear and professional for both technical audiences and recruiters visiting your GitHub or professional website.
-
-**If you want an even shorter, bullet-point version or a specific tool-focused setup (like Splunk SPL queries), just ask!**
-
-
