@@ -1,0 +1,12 @@
+security-log-analytics/
+├── data/
+│   └── sample.log                      # (add your actual log files here)
+├── scripts/
+│   ├── ingest.py
+│   ├── clean.py
+│   └── detect.py
+├── processed/                          # (created by scripts)
+├── dashboards/                         # (optional: add screenshots/configs)
+├── docs/                               # (optional: add additional guides)
+├── README.md                           # (see content below)
+└── requirements.txt
